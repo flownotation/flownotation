@@ -1,0 +1,16 @@
+*.pyc
+*.out
+.vscode/*
+sync.sh
+src/pycparser/build/*
+*.aux
+*.log
+*.synctex.gz
+*.blg
+evaluations/gnuk/gnuk-master/
+evaluations/krb5/krb5_1.15/
+.vagrant/*
+*.fls
+*.fdb_latexmk
+
+*.bbl
